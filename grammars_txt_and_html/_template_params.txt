@@ -1,0 +1,12 @@
+defeault_language_glottocodes:	{abcd1234}
+lacks_numbered_examples:	FALSE
+ex_number_regex:	^\([0-9]+-[0-9]+\)(\s+[a-z]\.)?|^[a-z]\.
+ex_head_number_regex:	[0-9]+-[0-9]+
+ex_sub_number_regex:	[a-z]
+language_identifier_xv_line_regex:	
+language_identifier_xf_line_regex:	
+expect_parsed_vernacular_lines:	TRUE
+expect_unparsed_vernacular_lines:	FALSE
+expect_example_header_lines:	FALSE
+expect_adjacent_gloss_lines:	FALSE
+expect_quoted_free_translation:	TRUE
