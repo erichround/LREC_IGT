@@ -8,3 +8,5 @@ To run the example in R, and generate the file ``grammars_txt_and_html/Mpur_1519
 source("Grammar_reader.R")
 harvest_all_Abbyy_html()
 ```
+
+[![DOI](https://zenodo.org/badge/223393853.svg)](https://zenodo.org/badge/latestdoi/223393853)
